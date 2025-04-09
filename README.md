@@ -1,2 +1,2 @@
 # sajid-demo
-This is a Demo for project class
+This is a Demo for project class.
